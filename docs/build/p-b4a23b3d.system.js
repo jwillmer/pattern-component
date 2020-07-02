@@ -1,1 +1,0 @@
-System.register(["./p-bbb77b6b.system.js"],(function(){"use strict";var t,e;return{setters:[function(r){t=r.p;e=r.b}],execute:function(){t().then((function(t){return e([["p-2eff644b.system",[[1,"css-pattern",{pattern:[1],patternFor:[1,"pattern-for"],getPatternFromExternalTitle:[64],getPatternFromPatternName:[64],getAllAvailablePatterns:[64]}]]]],t)}))}}}));
