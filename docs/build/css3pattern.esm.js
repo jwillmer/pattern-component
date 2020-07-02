@@ -1,0 +1,1 @@
+import{p as t,b as e}from"./p-b4e5c7e5.js";t().then(t=>e([["p-12822806",[[1,"css-pattern",{pattern:[1],patternFor:[1,"pattern-for"],getPatternFromExternalTitle:[64],getPatternFromPatternName:[64],getAllAvailablePatterns:[64]}]]]],t));
