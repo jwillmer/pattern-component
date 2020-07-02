@@ -1,6 +1,6 @@
 # CSS Pattern Web Component
 
-This web component creates a background pattern only by using CSS. It is very usefull to quickly create nice looking placeholders for profile pictures.
+This web component creates a background pattern only by using CSS. It is very usefull to quickly create nice looking placeholders for profile pictures. It is a fork of a [CSS3 pattern collection](https://leaverou.github.io/css3patterns/). 
 
 ## Demo
 
