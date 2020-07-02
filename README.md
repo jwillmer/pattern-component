@@ -10,6 +10,29 @@ This web component creates a background pattern only by using CSS. It is very us
 
 The docs folder contains the compiled source code of this component. You can visit the [demo page](https://jwillmer.github.io/pattern-web-component/) for more examples.
 
+## Usage
+
+For a comprehensive demo on how to use this component you can investigate the [/src/index.html](/src/index.html).
+
+```html
+<!-- Define which pattern to display -->
+<css-pattern pattern="half-rombes">
+    <!-- Your content -->
+</css-pattern>
+
+<!-- Get a consistent pattern from a string value. Usefull for profile image placeholders. -->
+<css-pattern pattern-for="John Doe">
+    <!-- Your content -->
+</css-pattern>
+
+<!-- Change CSS properties of the component  -->
+css-pattern {
+    --border-radius: 15px;
+    --width: 15vw;
+    --height: 15vh;
+}
+```
+
 ## Development
 
 run:
