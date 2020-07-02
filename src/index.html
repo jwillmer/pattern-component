@@ -21,7 +21,7 @@
       padding: 15px;
       --width: 15vw;
       --height: 15vh;
-    }    
+    }
 
     table, th, td {
       border: 1px solid black;
@@ -29,7 +29,7 @@
     }
 
     th, td {
-      padding: 5px 15px 5px 5px ;
+      padding: 5px 15px 5px 5px;
       text-align: left;
     }
   </style>
@@ -76,15 +76,12 @@
 
   <script type="text/javascript">
     async function seedPatterns() {
-      let patternElement = document.getElementsByTagName("css-pattern")[0];
+      const patternElement = document.getElementsByTagName("css-pattern")[0];
       await patternElement.componentOnReady();
-      let patternContainer = document.getElementsByClassName("patterns")[0];
+      const patternContainer = document.getElementsByClassName("patterns")[0];
       const patterns = await patternElement.getAllAvailablePatterns();
-
-
-      var patternList = document.querySelector('#patternList');
-      var template = document.querySelector('#patternObject');
-
+      const patternList = document.querySelector('#patternList');
+      const template = document.querySelector('#patternObject');
 
       patterns.forEach(pattern => {
         const element = document.createElement("css-pattern");
