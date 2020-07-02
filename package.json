@@ -10,6 +10,7 @@
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
   "unpkg": "dist/css3pattern/css3pattern.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "files": [
     "dist/",
     "loader/"
