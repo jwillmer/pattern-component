@@ -1,7 +1,16 @@
 {
   "name": "css3pattern",
   "version": "0.0.1",
-  "description": "CSS Pattern Web Component",
+  "description": "CSS Pattern Component",
+  "homepage": "https://github.com/jwillmer/pattern-component",
+  "author": "Jens Willmer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwillmer/pattern-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwillmer/pattern-component/issues"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
@@ -23,7 +32,33 @@
     "generate": "stencil generate"
   },
   "devDependencies": {
-    "@stencil/core": "^1.12.2"
+    "@stencil/core": "1.12.2"
   },
-  "license": "MIT"
+  "license": " GPL-3.0",
+  "keywords": [
+    "pattern",
+    "profile picture",
+    "placeholder",
+    "component",
+    "stenciljs",
+    "stencil",
+    "angular",
+    "react",
+    "vue",
+    "vanillajs",
+    "pwa",
+    "progressive-web-app",
+    "progressive-web-apps",
+    "progressive web app",
+    "progressive web apps",
+    "web-component",
+    "web-components",
+    "web component",
+    "web components",
+    "mobile",
+    "desktop",
+    "ux",
+    "user experience",
+    "webcomponents"
+  ]
 }
