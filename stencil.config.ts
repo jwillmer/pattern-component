@@ -1,5 +1,4 @@
 import { Config } from '@stencil/core';
-import { sass } from '@stencil/sass';
 
 export const config: Config = {
   namespace: 'css3pattern',
@@ -14,7 +13,7 @@ export const config: Config = {
     },
     {
       type: 'www',
-      serviceWorker: null // disable service workers
+      serviceWorker: null, // disable service workers
       dir: "./docs"
     }
   ]
