@@ -6,7 +6,7 @@ This web component creates a background pattern only by using CSS. It is very us
 
 ## Demo
 
-You can find a demo in the [docs folder](/docs).
+The docs folder contains the compiled source code of this component. You can visit the [demo page at jwillmer.github.io/pattern-web-component/](https://jwillmer.github.io/pattern-web-component/).
 
 ## Development
 
