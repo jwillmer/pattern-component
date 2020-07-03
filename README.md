@@ -7,9 +7,9 @@ This web component creates a background pattern only by using CSS. It is very us
 
 ## Demo
 
-[![Demo](./title.png)](https://jwillmer.github.io/pattern-web-component/)
+[![Demo](./title.png)](https://jwillmer.github.io/pattern-component/)
 
-The docs folder contains the compiled source code of this component. You can visit the [demo page](https://jwillmer.github.io/pattern-web-component/) for more examples.
+The docs folder contains the compiled source code of this component. You can visit the [demo page](https://jwillmer.github.io/pattern-component/) for more examples.
 
 ## Usage
 
