@@ -62,7 +62,7 @@ Need help? Check out our docs [here](https://stenciljs.com/docs/my-first-compone
 
 ### Script tag
 
-- Put a script tag similar to this `<script src='https://unpkg.com/pattern-component@0.0.1/dist/css3pattern.js'></script>` in the head of your index.html
+- Put a script tag similar to this `<script src='https://unpkg.com/pattern-component@0.0.2/dist/css3pattern.js'></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc
 
 ### Node Modules
