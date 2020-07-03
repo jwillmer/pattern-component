@@ -1,8 +1,9 @@
 {
   "name": "@jwillmer/pattern-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "private": false,
   "description": "CSS Pattern Component",
-  "homepage": "https://github.com/jwillmer/pattern-component",
+  "homepage": "https://jwillmer.github.io/pattern-component/",
   "author": "Jens Willmer",
   "repository": {
     "type": "git",
@@ -19,7 +20,6 @@
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
   "unpkg": "dist/css3pattern/css3pattern.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "files": [
     "dist/",
     "loader/"

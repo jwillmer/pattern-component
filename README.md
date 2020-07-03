@@ -1,3 +1,6 @@
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg?style=flat-square)](https://www.webcomponents.org/element/@jwillmer/pattern-component)
+[![Published on npmjs.com](https://img.shields.io/npm/v/@jwillmer/pattern-component?style=flat-square)](https://www.npmjs.com/package/@jwillmer/pattern-component)
+
 # CSS Pattern Web Component
 
 This web component creates a background pattern only by using CSS. It is very usefull to quickly create nice looking placeholders for profile pictures.
@@ -56,6 +59,11 @@ Need help? Check out our docs [here](https://stenciljs.com/docs/my-first-compone
 
 
 ## Using this component
+
+### Script tag
+
+- Put a script tag similar to this `<script src='https://unpkg.com/pattern-component@0.0.1/dist/css3pattern.js'></script>` in the head of your index.html
+- Then you can use the element anywhere in your template, JSX, html etc
 
 ### Node Modules
 - Run `npm install @jwillmer/pattern-component --save`
