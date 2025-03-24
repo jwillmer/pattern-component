@@ -1,6 +1,6 @@
 {
   "name": "@jwillmer/pattern-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "CSS Pattern Component",
   "homepage": "https://jwillmer.github.io/pattern-component/",
@@ -34,7 +34,7 @@
   "devDependencies": {
     "@stencil/core": "1.12.2"
   },
-  "license": " GPL-3.0",
+  "license": "MIT",
   "keywords": [
     "pattern",
     "profile picture",
